@@ -1,0 +1,15 @@
+﻿body {  
+  font-family : 'Consolas';
+  max-width: 65%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+th {
+  color            : black;  
+  width            : 70px;  
+}
+
+tr:nth-of-type(odd) {
+  background-color : #F5F5F5;
+}
